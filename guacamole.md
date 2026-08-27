@@ -1,12 +1,12 @@
 # Guacamole Repice
 ## Ingredients
 * avocado 
-*lime 
-*salt
-*onion
-*tomato
-*corriander
-*chilli flakes
+lime 
+salt
+onion
+tomato
+corriander
+chilli flakes
 
 ## Instructions
 

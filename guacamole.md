@@ -6,6 +6,7 @@
 * onion
 * tomato
 * cilantro
+* chilli flakes
 
 ## Instructions
 

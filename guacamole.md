@@ -5,7 +5,7 @@
 * salt
 * onion
 * tomato
-* corriander
+* cilantro
 
 ## Instructions
 

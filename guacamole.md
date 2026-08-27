@@ -6,7 +6,6 @@
 * onion
 * tomato
 * corriander
-* chilli flakes
 
 ## Instructions
 

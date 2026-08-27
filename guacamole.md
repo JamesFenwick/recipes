@@ -9,3 +9,5 @@
 
 ## Instructions
 
+Peel the avocado.
+Mix all the ingredients.
